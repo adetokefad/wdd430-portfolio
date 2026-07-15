@@ -6,7 +6,7 @@ This repository contains my WDD430 Portfolio project built with **Next.js**, **T
 
 **Vercel Deployment:**
 
-https://vercel.com/adetokefads-projects/wdd430-portfolio/BqjyPTtcWJ4b55i7yNxxkB56fst8
+https://wdd430-portfolio-umber-tau.vercel.app/
 
 ## Features
 
